@@ -14,7 +14,7 @@ Run the project from IDE and Server will be run on
 127.0.0.1:9000
 ```
 
-# GET
+## GET
 ```sh
 # Request:
 http://127.0.0.1:9000/destination
@@ -50,7 +50,7 @@ http://127.0.0.1:9000/destination
 ]
 ```
 
-# POST
+## POST
 ```sh
 # Request:
 http://127.0.0.1:9000/destination
@@ -68,7 +68,7 @@ http://127.0.0.1:9000/destination
     "country": "Bangladesh"
 }
 ```
-# PUT
+## PUT
 ```sh
 # Request:
 http://127.0.0.1:9000/destination/0
@@ -86,7 +86,7 @@ http://127.0.0.1:9000/destination/0
     "country": "India"
 }
 ```
-# DELETE
+## DELETE
 ```sh
 # Request:
 http://127.0.0.1:9000/destination/0
